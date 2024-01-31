@@ -13,6 +13,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **ramincsy/ramincsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
