@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=435&lines=Web+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=435&lines=Web+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93;Tron+Developer+%F0%9F%94%B6;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/raminzalizadeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@ramincsy"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://instagram.com/ramin_csy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ramincsy2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -34,7 +34,7 @@
 
 ### 👋 about me
 
-i'm **ramin**, a full-stack developer from iran 🇮🇷, passionate about blockchain technology and web3. currently building decentralized applications on **tron** and exploring the future of the web.
+i'm **ramin**, a full-stack developer from iran 🇮🇷, passionate about blockchain technology and web3. currently building decentralized applications on **tron** and exploring the future of the internet!
 
 ```typescript
 const ramin = {
@@ -55,7 +55,7 @@ const ramin = {
 - 🌱 learning **web3, smart contracts & dapps**
 - 👯 looking to collaborate on **open source projects**
 - 💬 ask me about **javascript, react, node.js, tron, solidity**
-- 📫 reach me: **your-email@example.com**
+- 📫 reach me: **ramincsy2@gmail.com**
 
 ---
 
