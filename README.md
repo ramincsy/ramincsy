@@ -1,38 +1,33 @@
-<p align="center">
-  <a href="https://github.com/ramincsy">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ramin%20Zalizadeh&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ramin%20Zalizadeh&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=435&lines=Web+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20Developer;Blockchain%20Enthusiast%20%E2%9B%93;Building%20the%20Decentralized%20Future;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=667eea&vCenter=true&pause=1000&size=22" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ramincsy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ramincsy" />
+  <img src="https://img.shields.io/github/followers/ramincsy?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
-<!-- Social icons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/raminzalizadeh"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/ramin_csy"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@ramincsy"><img width="32px" alt="Medium" title="Medium Blog" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/ramin_csy"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/IwSZWPO.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:your-email@example.com"><img width="32px" alt="Email" title="Email me" src="https://i.imgur.com/TJOTGLG.png"/></a>
-</p>
+<!-- Social Media Badges -->
+<div align="center">
+  <a href="https://twitter.com/ramin_csy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raminzalizadeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@ramincsy"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://instagram.com/ramin_csy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 <br/>
 
-<!-- Badges -->
+<!-- GitHub Stats Badges -->
 <p align="center">
   <a href="https://github.com/ramincsy?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ramincsy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/ramincsy?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ramincsy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/ramincsy">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ramincsy&style=for-the-badge&color=667eea"/></a>
 </p>
 
 <br/>
@@ -219,9 +214,9 @@ if you like what i do, consider buying me a coffee! 🥺👉👈
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
 
 <p align="center">
   made with 💙 by <a href="https://github.com/ramincsy">ramin</a>
