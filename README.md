@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+Developer;Network+%26+Datacenter+Engineer;TRON+%2F+Web3+Tooling;Exchange+%26+Fintech+(Sarafchi)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+Developer;Network+%26+Datacenter+Engineer;ramioo.com+%E2%80%94+Tabriz;Exchange+%26+Fintech+(Sarafchi)" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,43 +13,59 @@
 </p>
 
 <div align="center">
+  <a href="https://www.ramioo.com"><img src="https://img.shields.io/badge/Website-ramioo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ramioo.com" /></a>
   <a href="https://twitter.com/ramin_csy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/raminzalizadeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@ramincsy"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://instagram.com/ramin_csy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:ramincsy2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:ramincsywork@gmail.com"><img src="https://img.shields.io/badge/Work-ramincsywork%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email" /></a>
 </div>
 
 ---
 
 ### 👋 about me
 
-**توسعه‌دهنده فول‌استک + زیرساخت شبکه و دیتاسنتر — صرافی، ترون، متن‌باز.**
+**توسعه‌دهنده فول‌استک + شبکه و دیتاسنتر در تبریز — [ramioo.com](https://www.ramioo.com)**
 
-i'm **ramin** (`ramincsy`) from iran 🇮🇷. i work across **software** and **infrastructure**:
+i'm **ramin** (`ramincsy`). brand: **[ramioo](https://www.ramioo.com)** — software, networks, data centers and security, based in **Tabriz**.
 
 - **full-stack / fintech** — exchange back-office (**Sarafchi**), TRON / Web3 tools
-- **network** — routing, switching, firewall, VPN, cabling
-- **datacenter** — racks, servers, virtualization, and network hardware
+- **network & datacenter** — routing, switching, racks, servers, cabling
+- **selected work** — [projects on ramioo.com](https://www.ramioo.com/projects)
 
 ```typescript
 const ramin = {
   github: "ramincsy",
-  location: "Iran 🇮🇷",
+  site: "https://www.ramioo.com",
+  location: "Tabriz, Iran",
   roles: ["Full Stack Developer", "Network & Datacenter"],
-  focus: ["Sarafchi", "TRON / Web3", "LAN / WAN / DC racks"],
 };
 ```
 
 - 🔭 **Sarafchi** — trades, balances, rial / USDT, TRON deposits
 - 🖥️ **datacenter & network** — racks, switches, servers, cabling
-- 🌱 public tools for **address formats** and **wallet balances**
-- 💬 ask me about **javascript, react, python, flask, sql server, tron, cisco / mikrotik, linux**
-- 📫 **[ramincsy2@gmail.com](mailto:ramincsy2@gmail.com)**
+- 🌱 public GitHub tools for **address formats** and **wallet balances**
+- 💬 javascript, react, python, flask, sql server, tron, cisco / mikrotik, linux
+- 📫 work: **[ramincsywork@gmail.com](mailto:ramincsywork@gmail.com)** · also [ramincsy2@gmail.com](mailto:ramincsy2@gmail.com)
 
 ---
 
-### 📂 featured work
+### 📂 selected work — [ramioo.com](https://www.ramioo.com/projects)
+
+Portfolio from the site. **Sarafchi** is public on GitHub; the others are shown on the website (demo / confidential).
+
+| Project | What it is | Where |
+| --- | --- | --- |
+| **[Sarafchi](https://www.ramioo.com/projects/sarafchi)** | Currency-exchange accounting for traditional exchange houses (React + server). | [GitHub](https://github.com/ramincsy/Sarafchi) · [site](https://www.ramioo.com/projects/sarafchi) |
+| **[Digital exchange core](https://www.ramioo.com/projects/digital-exchange)** | Digital-asset exchange: accounts, wallets, orders, operations. | [site](https://www.ramioo.com/projects/digital-exchange) |
+| **[Solar plant monitoring](https://www.ramioo.com/projects/solar-intelligence)** | Solar-panel monitoring: generation, equipment health, alerts. | [site](https://www.ramioo.com/projects/solar-intelligence) |
+| **[Vision access control](https://www.ramioo.com/projects/vision-access)** | Entrance control with cameras and AI: plates and passage logs. | [site](https://www.ramioo.com/projects/vision-access) |
+| **[Network infrastructure atlas](https://www.ramioo.com/projects/network-twin)** | Racks, topology, server-room docs and inventory. | [site](https://www.ramioo.com/projects/network-twin) |
+| **[Enterprise directory](https://www.ramioo.com/projects/enterprise-directory)** | Search and manage contacts across large organizations. | [site](https://www.ramioo.com/projects/enterprise-directory) |
+
+---
+
+### 📂 public GitHub repos
 
 <p align="center">
   <a href="https://github.com/ramincsy/Sarafchi">
@@ -195,6 +211,7 @@ const ramin = {
 
 ### 🎯 current focus
 
+- **[ramioo.com](https://www.ramioo.com)** — software, network, datacenter and security from Tabriz
 - **Sarafchi** — exchange back office (roles, trades, balances, TRON USDT)
 - **network & datacenter** — racks, switching, servers, stable LAN/WAN
 - public **address** and **balance** tools that stay clear and useful
