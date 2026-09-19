@@ -356,6 +356,42 @@ const ramin = {
 
 ---
 
+
+---
+
+### 🗺 services · region — ramioo · تبریز
+
+**طراحی، تأمین، نصب و نگهداری** زیرساخت شبکه و دیتاسنتر · برند **[ramioo](https://www.ramioo.com)** · Tabriz, Iran  
+نرم‌افزار مستندسازی **Atlas** (DCIM / IPAM / NMS) با کتابخانهٔ ۶٬۲۰۰+ مدل تجهیزات.
+
+<p align="center">
+  <a href="https://www.ramioo.com/services"><img src="https://img.shields.io/badge/Services-111827?style=for-the-badge" alt="Services" /></a>
+  <a href="https://www.ramioo.com/contact"><img src="https://img.shields.io/badge/Contact-16a34a?style=for-the-badge" alt="Contact" /></a>
+  <a href="mailto:ramincsywork@gmail.com"><img src="https://img.shields.io/badge/ramincsywork%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+989146665068"><img src="https://img.shields.io/badge/0914%20666%2050%2068-0F766E?style=for-the-badge" alt="Phone" /></a>
+</p>
+
+**خدمات**
+- **اتاق سرور و رک** — جانمایی، آرایش U، کابل‌کشی مسی/فیبر، PDU و UPS مسیر A/B
+- **شبکه سازمانی** — سوئیچینگ، روتینگ، VLAN، VPN، فایروال / WAF
+- **دیتاسنتر** — Spine-Leaf، مدار DIA/MPLS/فیبر، پایش SNMP، ظرفیت برق
+- **Atlas** — DCIM سه‌بعدی، IPAM، NMS، مستندسازی چندسایته
+
+**کاتالوگ تجهیزات (نمونه)**
+
+| دسته | نمونه |
+|------|--------|
+| سوئیچ / روتر | Cisco Catalyst & ISR · MikroTik CRS/CCR · HPE Aruba |
+| امنیت | FortiGate / FortiWeb · Cisco ASA / Firepower |
+| سرور و ذخیره | HPE ProLiant & MSA · Dell PowerEdge |
+| رک و برق | iRack · پایا · HPA · APC / Eaton / Vertiv |
+| فیبر و پچ | LIU/ODF · Cat6 · Corning / Panduit / CommScope |
+| نظارت تصویری | Uniview · Hikvision · Dahua · AXIS |
+| دسترسی / خورشیدی | Huawei / ZTE / Nokia GPON · Huawei FusionSolar |
+
+**منطقه:** تبریز و پروژه‌های چندسایته · **تماس:** [ramincsywork@gmail.com](mailto:ramincsywork@gmail.com) · [0914 666 50 68](tel:+989146665068) · [ramioo.com/contact](https://www.ramioo.com/contact)
+
+
 ### 🎯 current focus
 
 - **network & datacenter** — racks, switching, servers, cabling, stable LAN/WAN
