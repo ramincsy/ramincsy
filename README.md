@@ -1,192 +1,36 @@
 <div align="center">
   <a href="https://www.ramioo.com">
-    <img src="./assets/ramioo-readme-plate.png" width="220" alt="ramioo" />
+    <img src="./assets/ramioo-readme-plate.png" width="180" alt="ramioo" />
   </a>
-  <h1>Ramin Zalizadeh · <a href="https://www.ramioo.com">ramioo</a></h1>
+  <h1>Hi 👋, I'm Ramin · <a href="https://www.ramioo.com">ramioo</a></h1>
+  <h3>Exchange &amp; TRON tooling · Network &amp; datacenter</h3>
   <p>
-    <b>Exchange &amp; TRON tooling</b> · <b>Network &amp; datacenter</b><br/>
-    نرم‌افزار صرافی و فین‌تک · زیرساخت شبکه، رک و سرور
-  </p>
-  <p>
-    <a href="https://www.ramioo.com"><img src="https://img.shields.io/badge/Website-www.ramioo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://www.ramioo.com/projects"><img src="https://img.shields.io/badge/Portfolio-Projects-111827?style=for-the-badge" alt="Portfolio" /></a>
-    <a href="https://www.ramioo.com/contact"><img src="https://img.shields.io/badge/Contact-Get%20in%20touch-16a34a?style=for-the-badge" alt="Contact" /></a>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/raminzalizadeh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/ramin_csy"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-    <a href="https://instagram.com/ramin_csy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:ramincsywork@gmail.com"><img src="https://img.shields.io/badge/Email-ramincsywork@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.ramioo.com"><img src="https://img.shields.io/badge/www.ramioo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ramioo.com" /></a>
   </p>
 </div>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramincsy&label=Profile%20views&color=0e75b6&style=flat" alt="ramincsy" /> </p>
 
-### 👋 about me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?ramincsy=ryo-ma&theme=juicyfresh
+" alt="ramincsy" /></a> </p>
 
-**رمین** (`ramincsy`) — برند **[ramioo](https://www.ramioo.com)** از تبریز.
+<p align="left"> <a href="https://twitter.com/ramin_csy" target="blank"><img src="https://img.shields.io/twitter/follow/ramin_csy?logo=twitter&style=for-the-badge" alt="ramincsy" /></a> </p>
 
-I design **network & datacenter** infrastructure and build **exchange / fintech** software (TRON, wallets, balances) used in real operations.
+- 🔭 I’m currently working on **Sarafchi / TRON tooling** and **network & datacenter** at [ramioo.com](https://www.ramioo.com)
 
-```typescript
-const ramin = {
-  github: "ramincsy",
-  site: "https://www.ramioo.com",
-  location: "Tabriz, Iran",
-  roles: ["Network & Datacenter", "Exchange / Fintech"],
-  stack: ["React", "Flask", "C#", "Python", "SQL Server", "TRON", "Cisco", "MikroTik"],
-};
-```
-
-- 🖥️ **Network & datacenter** — رک، سوئیچ، سرور، کابل‌کشی، فایروال، LAN/WAN
-- 💱 **Sarafchi** — حسابداری صرافی، ریال / USDT، واریز TRON
-- 🌱 ابزارهای عمومی **آدرس** و **موجودی کیف‌پول** روی GitHub
-- 📫 [ramincsywork@gmail.com](mailto:ramincsywork@gmail.com)
-
----
-
-<div align="center">
-  <h2>Network · Racks · Servers</h2>
-  <p><b>زیرساخت شبکه · تجهیزات · سرور و رک</b></p>
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.ramioo.com/projects/network-twin">
-        <img src="https://www.ramioo.com/images/server-racks.jpg" width="440" alt="Server racks" />
-      </a>
-      <br/>
-      <h3><a href="https://www.ramioo.com/projects/network-twin">سرور و رک دیتاسنتر</a></h3>
-      Racks · Servers · Cabling · UPS / PDU
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.ramioo.com/projects/network-twin">
-        <img src="https://www.ramioo.com/images/network-switch.jpg" width="440" alt="Network switches" />
-      </a>
-      <br/>
-      <h3><a href="https://www.ramioo.com/projects/network-twin">تجهیزات شبکه</a></h3>
-      Switching · Routing · Firewall · VLAN / VPN
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ramin_csy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramincsy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raminzalizadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramincsy" height="30" width="40" /></a>
+<a href="https://instagram.com/ramin_csy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramincsy" height="30" width="40" /></a>
+<a href="https://medium.com/@ramincsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ramincsy" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
-### 🖼 selected work — [ramioo.com/projects](https://www.ramioo.com/projects)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramincsy&show_icons=true&locale=en&layout=compact" alt="ramincsy" /></p>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.ramioo.com/projects/network-twin"><img src="https://www.ramioo.com/images/server-racks.jpg" width="400" alt="Network atlas" /></a><br/>
-      <h3><a href="https://www.ramioo.com/projects/network-twin">اطلس زیرساخت شبکه</a></h3>
-      Racks · topology · inventory
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.ramioo.com/projects/sarafchi"><img src="https://www.ramioo.com/images/currency-notes.jpg" width="400" alt="Sarafchi" /></a><br/>
-      <h3><a href="https://www.ramioo.com/projects/sarafchi">صرافچی</a></h3>
-      Exchange accounting · TRON USDT<br/>
-      <a href="https://github.com/ramincsy/Sarafchi">GitHub</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.ramioo.com/projects/digital-exchange"><img src="https://www.ramioo.com/images/exchange-dashboard.jpg" width="400" alt="Digital exchange" /></a><br/>
-      <h3><a href="https://www.ramioo.com/projects/digital-exchange">هستهٔ صرافی دیجیتال</a></h3>
-      Accounts · wallets · orders
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.ramioo.com/projects/solar-intelligence"><img src="https://www.ramioo.com/images/solar-panels.jpg" width="400" alt="Solar" /></a><br/>
-      <h3><a href="https://www.ramioo.com/projects/solar-intelligence">پایش نیروگاه خورشیدی</a></h3>
-      Generation · health · alerts
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.ramioo.com/projects/vision-access"><img src="https://www.ramioo.com/images/security-camera.jpg" width="400" alt="Vision access" /></a><br/>
-      <h3><a href="https://www.ramioo.com/projects/vision-access">کنترل تردد و پلاک‌خوان</a></h3>
-      Cameras · AI · passage logs
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.ramioo.com/projects/enterprise-directory"><img src="https://www.ramioo.com/images/enterprise-office.jpg" width="400" alt="Directory" /></a><br/>
-      <h3><a href="https://www.ramioo.com/projects/enterprise-directory">دفترچه تلفن سازمانی</a></h3>
-      Contacts across large orgs
-    </td>
-  </tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramincsy&show_icons=true&locale=en" alt="ramincsy" /></p>
 
-<p align="center">
-  <a href="https://www.ramioo.com/projects"><img src="https://img.shields.io/badge/Open%20full%20portfolio-www.ramioo.com%2Fprojects-0A66C2?style=for-the-badge" alt="Portfolio" /></a>
-</p>
-
----
-
-### 📂 public GitHub repos
-
-<p align="center">
-  <a href="https://github.com/ramincsy/Sarafchi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramincsy&repo=Sarafchi&theme=tokyonight&hide_border=true" alt="Sarafchi" /></a>
-  <a href="https://github.com/ramincsy/Best-Coin-Address-Validator-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramincsy&repo=Best-Coin-Address-Validator-&theme=tokyonight&hide_border=true" alt="Best-Coin" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ramincsy/Get-Balances"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramincsy&repo=Get-Balances&theme=tokyonight&hide_border=true" alt="Get-Balances" /></a>
-  <a href="https://github.com/ramincsy/Gthub-Achievements"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramincsy&repo=Gthub-Achievements&theme=tokyonight&hide_border=true" alt="Gthub-Achievements" /></a>
-</p>
-
-| Repo | What it does |
-|------|----------------|
-| **[Sarafchi](https://github.com/ramincsy/Sarafchi)** | Exchange back office — React + Flask + SQL Server, TronGrid USDT |
-| **[Best-Coin-Address-Validator-](https://github.com/ramincsy/Best-Coin-Address-Validator-)** | C# address **format** checker (not checksums) |
-| **[Get-Balances](https://github.com/ramincsy/Get-Balances)** | Multi-network balance poller → SQL Server |
-| **[Gthub-Achievements](https://github.com/ramincsy/Gthub-Achievements)** | Persian GitHub collaboration playbook |
-
----
-
-### 🛠️ stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,python,flask,cs,dotnet,nodejs,mysql,docker,linux,git,github" alt="Core stack" />
-</p>
-
-<p align="center">
-  <img alt="TRON" src="https://img.shields.io/badge/TRON-FF0013?style=for-the-badge&logo=tron&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-</p>
-
----
-
-### 📈 github stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramincsy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramincsy&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<sub>Top languages = public repos only — not network / datacenter fieldwork.</sub>
-
----
-
-### 🎯 focus now
-
-- **[ramioo.com](https://www.ramioo.com)** — infrastructure + software from Tabriz
-- **Sarafchi** — exchange ops (roles, trades, balances, TRON USDT)
-- Public tools that stay **clear** for addresses & balances
-
----
-
-<p align="center">
-  <a href="https://www.ramioo.com"><img src="./assets/ramioo-readme-plate.png" width="72" alt="ramioo" /></a><br/>
-  <b>made with care by <a href="https://github.com/ramincsy">ramin</a></b><br/>
-  <a href="https://www.ramioo.com">www.ramioo.com</a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramincsy&" alt="ramincsy" /></p>
