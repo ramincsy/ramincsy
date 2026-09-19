@@ -60,7 +60,7 @@ const ramin = {
 - 🖥️ **network & datacenter** — رک، سوئیچ، سرور، کابل‌کشی، فایروال، LAN/WAN
 - 🔭 **Sarafchi** — trades, balances, rial / USDT, TRON deposits
 - 🌱 public GitHub tools for **address formats** and **wallet balances**
-- 📫 **[ramincsywork@gmail.com](mailto:ramincsywork@gmail.com)** · [ramincsy2@gmail.com](mailto:ramincsy2@gmail.com)
+- 📫 **[ramincsywork@gmail.com](mailto:ramincsywork@gmail.com)**
 
 ---
 
