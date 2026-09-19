@@ -16,7 +16,7 @@
   </h1>
   <p>
     <b>زیرساخت شبکه · تجهیزات · سرور و رک · نرم‌افزار</b><br/>
-    برند شخصی رامین در تبریز — طراحی و اجرای دیتاسنتر، شبکه و سامانه‌ها
+    طراحی و اجرای دیتاسنتر، شبکه و سامانه‌ها
   </p>
   <p>
     <a href="https://www.ramioo.com"><img src="https://img.shields.io/badge/VISIT%20SITE-www.ramioo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ramioo.com" /></a>
