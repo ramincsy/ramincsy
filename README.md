@@ -3,7 +3,26 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+Developer;Network+%26+Datacenter+Engineer;ramioo.com+%E2%80%94+Tabriz;Exchange+%26+Fintech+(Sarafchi)" alt="Typing SVG" />
+  <a href="https://www.ramioo.com">
+    <img src="https://www.ramioo.com/images/ramioo-emblem.png" width="132" alt="ramioo" />
+  </a>
+  <br/>
+  <a href="https://www.ramioo.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=2E9EF7&center=true&vCenter=true&random=false&width=640&lines=www.ramioo.com;Software+%C2%B7+Network+%C2%B7+Datacenter;Tabriz+%E2%80%94+Iran" alt="www.ramioo.com" />
+  </a>
+  <br/>
+  <h2>
+    <a href="https://www.ramioo.com">🌐 www.ramioo.com</a>
+  </h2>
+  <p>
+    <b>نرم‌افزار · شبکه · دیتاسنتر · امنیت</b><br/>
+    برند شخصی رامین در تبریز — نمونه‌کارها و دموها روی سایت
+  </p>
+  <p>
+    <a href="https://www.ramioo.com"><img src="https://img.shields.io/badge/VISIT%20SITE-www.ramioo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ramioo.com" /></a>
+    <a href="https://www.ramioo.com/projects"><img src="https://img.shields.io/badge/PROJECTS-%D9%86%D9%85%D9%88%D9%86%D9%87%E2%80%8C%DA%A9%D8%A7%D8%B1%D9%87%D8%A7-111827?style=for-the-badge" alt="Projects" /></a>
+    <a href="https://www.ramioo.com/contact"><img src="https://img.shields.io/badge/CONTACT-%D8%AA%D9%85%D8%A7%D8%B3-16a34a?style=for-the-badge" alt="Contact" /></a>
+  </p>
 </div>
 
 <p align="center">
@@ -13,7 +32,6 @@
 </p>
 
 <div align="center">
-  <a href="https://www.ramioo.com"><img src="https://img.shields.io/badge/Website-ramioo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ramioo.com" /></a>
   <a href="https://twitter.com/ramin_csy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/raminzalizadeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@ramincsy"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -25,13 +43,9 @@
 
 ### 👋 about me
 
-**توسعه‌دهنده فول‌استک + شبکه و دیتاسنتر در تبریز — [ramioo.com](https://www.ramioo.com)**
+**فول‌استک + شبکه و دیتاسنتر — سایت: [www.ramioo.com](https://www.ramioo.com)**
 
-i'm **ramin** (`ramincsy`). brand: **[ramioo](https://www.ramioo.com)** — software, networks, data centers and security, based in **Tabriz**.
-
-- **full-stack / fintech** — exchange back-office (**Sarafchi**), TRON / Web3 tools
-- **network & datacenter** — routing, switching, racks, servers, cabling
-- **selected work** — [projects on ramioo.com](https://www.ramioo.com/projects)
+i'm **ramin** (`ramincsy`). brand **[ramioo](https://www.ramioo.com)**: software, networks, data centers and security in **Tabriz**.
 
 ```typescript
 const ramin = {
@@ -45,23 +59,98 @@ const ramin = {
 - 🔭 **Sarafchi** — trades, balances, rial / USDT, TRON deposits
 - 🖥️ **datacenter & network** — racks, switches, servers, cabling
 - 🌱 public GitHub tools for **address formats** and **wallet balances**
-- 💬 javascript, react, python, flask, sql server, tron, cisco / mikrotik, linux
-- 📫 work: **[ramincsywork@gmail.com](mailto:ramincsywork@gmail.com)** · also [ramincsy2@gmail.com](mailto:ramincsy2@gmail.com)
+- 📫 **[ramincsywork@gmail.com](mailto:ramincsywork@gmail.com)** · [ramincsy2@gmail.com](mailto:ramincsy2@gmail.com)
 
 ---
 
-### 📂 selected work — [ramioo.com](https://www.ramioo.com/projects)
+### 🖼 selected work — click any photo → [ramioo.com](https://www.ramioo.com/projects)
 
-Portfolio from the site. **Sarafchi** is public on GitHub; the others are shown on the website (demo / confidential).
+<p align="center">
+  <a href="https://www.ramioo.com/projects"><img src="https://img.shields.io/badge/Open%20full%20portfolio-www.ramioo.com%2Fprojects-0A66C2?style=for-the-badge" alt="Open portfolio" /></a>
+</p>
 
-| Project | What it is | Where |
-| --- | --- | --- |
-| **[Sarafchi](https://www.ramioo.com/projects/sarafchi)** | Currency-exchange accounting for traditional exchange houses (React + server). | [GitHub](https://github.com/ramincsy/Sarafchi) · [site](https://www.ramioo.com/projects/sarafchi) |
-| **[Digital exchange core](https://www.ramioo.com/projects/digital-exchange)** | Digital-asset exchange: accounts, wallets, orders, operations. | [site](https://www.ramioo.com/projects/digital-exchange) |
-| **[Solar plant monitoring](https://www.ramioo.com/projects/solar-intelligence)** | Solar-panel monitoring: generation, equipment health, alerts. | [site](https://www.ramioo.com/projects/solar-intelligence) |
-| **[Vision access control](https://www.ramioo.com/projects/vision-access)** | Entrance control with cameras and AI: plates and passage logs. | [site](https://www.ramioo.com/projects/vision-access) |
-| **[Network infrastructure atlas](https://www.ramioo.com/projects/network-twin)** | Racks, topology, server-room docs and inventory. | [site](https://www.ramioo.com/projects/network-twin) |
-| **[Enterprise directory](https://www.ramioo.com/projects/enterprise-directory)** | Search and manage contacts across large organizations. | [site](https://www.ramioo.com/projects/enterprise-directory) |
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://www.ramioo.com/projects/sarafchi">
+        <img src="https://www.ramioo.com/images/currency-notes.jpg" alt="Sarafchi" width="420" />
+      </a>
+      <br/>
+      <b><a href="https://www.ramioo.com/projects/sarafchi">صرافچی — حسابداری ارزی</a></b>
+      <br/>
+      Currency-exchange accounting
+      <br/>
+      <a href="https://github.com/ramincsy/Sarafchi">GitHub</a> · <a href="https://www.ramioo.com/projects/sarafchi">سایت</a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://www.ramioo.com/projects/digital-exchange">
+        <img src="https://www.ramioo.com/images/exchange-dashboard.jpg" alt="Digital exchange core" width="420" />
+      </a>
+      <br/>
+      <b><a href="https://www.ramioo.com/projects/digital-exchange">هستهٔ صرافی دیجیتال</a></b>
+      <br/>
+      Accounts, wallets, orders
+      <br/>
+      <a href="https://www.ramioo.com/projects/digital-exchange">مشاهده در سایت</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://www.ramioo.com/projects/solar-intelligence">
+        <img src="https://www.ramioo.com/images/solar-panels.jpg" alt="Solar plant monitoring" width="420" />
+      </a>
+      <br/>
+      <b><a href="https://www.ramioo.com/projects/solar-intelligence">پایش نیروگاه خورشیدی</a></b>
+      <br/>
+      Generation, health, alerts
+      <br/>
+      <a href="https://www.ramioo.com/projects/solar-intelligence">مشاهده در سایت</a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://www.ramioo.com/projects/vision-access">
+        <img src="https://www.ramioo.com/images/security-camera.jpg" alt="Vision access control" width="420" />
+      </a>
+      <br/>
+      <b><a href="https://www.ramioo.com/projects/vision-access">کنترل تردد و پلاک‌خوان</a></b>
+      <br/>
+      Cameras, AI, passage logs
+      <br/>
+      <a href="https://www.ramioo.com/projects/vision-access">مشاهده در سایت</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://www.ramioo.com/projects/network-twin">
+        <img src="https://www.ramioo.com/images/server-racks.jpg" alt="Network infrastructure atlas" width="420" />
+      </a>
+      <br/>
+      <b><a href="https://www.ramioo.com/projects/network-twin">اطلس زیرساخت شبکه</a></b>
+      <br/>
+      Racks, topology, inventory
+      <br/>
+      <a href="https://www.ramioo.com/projects/network-twin">مشاهده در سایت</a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://www.ramioo.com/projects/enterprise-directory">
+        <img src="https://www.ramioo.com/images/enterprise-office.jpg" alt="Enterprise directory" width="420" />
+      </a>
+      <br/>
+      <b><a href="https://www.ramioo.com/projects/enterprise-directory">دفترچه تلفن سازمانی</a></b>
+      <br/>
+      Contacts across large orgs
+      <br/>
+      <a href="https://www.ramioo.com/projects/enterprise-directory">مشاهده در سایت</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>دمو و جزئیات کامل روی سایت است.</b><br/>
+  <a href="https://www.ramioo.com">www.ramioo.com</a> ·
+  <a href="https://www.ramioo.com/projects">پروژه‌ها</a> ·
+  <a href="https://www.ramioo.com/services">خدمات</a> ·
+  <a href="https://www.ramioo.com/contact">تماس</a>
+</p>
 
 ---
 
