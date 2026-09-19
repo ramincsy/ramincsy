@@ -8,15 +8,15 @@
   </a>
   <br/>
   <a href="https://www.ramioo.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=2E9EF7&center=true&vCenter=true&random=false&width=640&lines=www.ramioo.com;Software+%C2%B7+Network+%C2%B7+Datacenter;Tabriz+%E2%80%94+Iran" alt="www.ramioo.com" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=900&color=2E9EF7&center=true&vCenter=true&repeat=true&width=720&height=56&lines=www.ramioo.com;Network+%26+Datacenter+Infrastructure;Racks+%C2%B7+Servers+%C2%B7+Switches;Cisco+%C2%B7+MikroTik+%C2%B7+Firewall" alt="www.ramioo.com — network and datacenter" />
   </a>
   <br/>
-  <h2>
-    <a href="https://www.ramioo.com">🌐 www.ramioo.com</a>
-  </h2>
+  <h1>
+    <a href="https://www.ramioo.com">www.ramioo.com</a>
+  </h1>
   <p>
-    <b>نرم‌افزار · شبکه · دیتاسنتر · امنیت</b><br/>
-    برند شخصی رامین در تبریز — نمونه‌کارها و دموها روی سایت
+    <b>زیرساخت شبکه · تجهیزات · سرور و رک · نرم‌افزار</b><br/>
+    برند شخصی رامین در تبریز — طراحی و اجرای دیتاسنتر، شبکه و سامانه‌ها
   </p>
   <p>
     <a href="https://www.ramioo.com"><img src="https://img.shields.io/badge/VISIT%20SITE-www.ramioo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ramioo.com" /></a>
@@ -43,23 +43,87 @@
 
 ### 👋 about me
 
-**فول‌استک + شبکه و دیتاسنتر — سایت: [www.ramioo.com](https://www.ramioo.com)**
+**شبکه و دیتاسنتر + فول‌استک — سایت: [www.ramioo.com](https://www.ramioo.com)**
 
-i'm **ramin** (`ramincsy`). brand **[ramioo](https://www.ramioo.com)**: software, networks, data centers and security in **Tabriz**.
+i'm **ramin** (`ramincsy`). I design and run **network infrastructure, racks, servers and switching**, and I also build software (**Sarafchi**, TRON / fintech). Brand **[ramioo](https://www.ramioo.com)** · **Tabriz**.
 
 ```typescript
 const ramin = {
   github: "ramincsy",
   site: "https://www.ramioo.com",
   location: "Tabriz, Iran",
-  roles: ["Full Stack Developer", "Network & Datacenter"],
+  roles: ["Network & Datacenter", "Full Stack Developer"],
+  infra: ["racks", "servers", "switching", "firewall", "cabling"],
 };
 ```
 
+- 🖥️ **network & datacenter** — رک، سوئیچ، سرور، کابل‌کشی، فایروال، LAN/WAN
 - 🔭 **Sarafchi** — trades, balances, rial / USDT, TRON deposits
-- 🖥️ **datacenter & network** — racks, switches, servers, cabling
 - 🌱 public GitHub tools for **address formats** and **wallet balances**
 - 📫 **[ramincsywork@gmail.com](mailto:ramincsywork@gmail.com)** · [ramincsy2@gmail.com](mailto:ramincsy2@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F222E,100:0A66C2&height=88&section=header&text=Network%20%C2%B7%20Racks%20%C2%B7%20Servers&fontSize=42&fontAlignY=50&font=Poppins&fontColor=ffffff" alt="Network · Racks · Servers" />
+</div>
+
+<h2 align="center">زیرساخت شبکه · تجهیزات · سرور و رک</h2>
+
+<p align="center">
+  <b>طراحی، نصب و نگهداری اتاق سرور، رک، سوئیچ، فایروال و کابل‌کشی</b><br/>
+  <a href="https://www.ramioo.com/services">خدمات شبکه و دیتاسنتر در ramioo.com</a>
+</p>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://www.ramioo.com/projects/network-twin">
+        <img src="https://www.ramioo.com/images/server-racks.jpg" alt="Server racks" width="440" />
+      </a>
+      <br/>
+      <h3><a href="https://www.ramioo.com/projects/network-twin">سرور و رک دیتاسنتر</a></h3>
+      <b>Racks · Servers · Cabling · UPS / PDU</b>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://www.ramioo.com/projects/network-twin">
+        <img src="https://www.ramioo.com/images/network-switch.jpg" alt="Network switches" width="440" />
+      </a>
+      <br/>
+      <h3><a href="https://www.ramioo.com/projects/network-twin">تجهیزات شبکه</a></h3>
+      <b>Switching · Routing · Firewall · VLAN / VPN</b>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img alt="pfSense" src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img alt="Routing" src="https://img.shields.io/badge/Routing%20%26%20Switching-0A66C2?style=for-the-badge" />
+  <img alt="VLAN" src="https://img.shields.io/badge/VLAN-0052CC?style=for-the-badge" />
+  <img alt="VPN" src="https://img.shields.io/badge/VPN-7B2CBF?style=for-the-badge" />
+  <img alt="Firewall" src="https://img.shields.io/badge/Firewall-B91C1C?style=for-the-badge" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+<p align="center">
+  <img alt="Dell" src="https://img.shields.io/badge/Dell%20Servers-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
+  <img alt="HPE" src="https://img.shields.io/badge/HPE%20Servers-00B388?style=for-the-badge&logo=hewlettpackardenterprise&logoColor=white" />
+  <img alt="SuperMicro" src="https://img.shields.io/badge/SuperMicro-151F6D?style=for-the-badge&logo=supermicro&logoColor=white" />
+  <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Racks" src="https://img.shields.io/badge/Racks%20%26%20Cabling-334155?style=for-the-badge" />
+  <img alt="UPS" src="https://img.shields.io/badge/UPS%20%26%20PDU-0F766E?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.ramioo.com/projects/network-twin"><img src="https://img.shields.io/badge/Network%20atlas%20demo-ramioo.com-0A66C2?style=for-the-badge" alt="Network atlas" /></a>
+  <a href="https://www.ramioo.com/services"><img src="https://img.shields.io/badge/Infrastructure%20services-ramioo.com%2Fservices-111827?style=for-the-badge" alt="Services" /></a>
+</p>
 
 ---
 
@@ -72,71 +136,65 @@ const ramin = {
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
+      <a href="https://www.ramioo.com/projects/network-twin">
+        <img src="https://www.ramioo.com/images/server-racks.jpg" alt="Network infrastructure atlas" width="420" />
+      </a>
+      <br/>
+      <h3><a href="https://www.ramioo.com/projects/network-twin">اطلس زیرساخت شبکه</a></h3>
+      <b>Racks, topology, inventory</b>
+      <br/>
+      <a href="https://www.ramioo.com/projects/network-twin">مشاهده در سایت</a>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://www.ramioo.com/projects/sarafchi">
         <img src="https://www.ramioo.com/images/currency-notes.jpg" alt="Sarafchi" width="420" />
       </a>
       <br/>
-      <b><a href="https://www.ramioo.com/projects/sarafchi">صرافچی — حسابداری ارزی</a></b>
-      <br/>
+      <h3><a href="https://www.ramioo.com/projects/sarafchi">صرافچی — حسابداری ارزی</a></h3>
       Currency-exchange accounting
       <br/>
       <a href="https://github.com/ramincsy/Sarafchi">GitHub</a> · <a href="https://www.ramioo.com/projects/sarafchi">سایت</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://www.ramioo.com/projects/digital-exchange">
         <img src="https://www.ramioo.com/images/exchange-dashboard.jpg" alt="Digital exchange core" width="420" />
       </a>
       <br/>
-      <b><a href="https://www.ramioo.com/projects/digital-exchange">هستهٔ صرافی دیجیتال</a></b>
-      <br/>
+      <h3><a href="https://www.ramioo.com/projects/digital-exchange">هستهٔ صرافی دیجیتال</a></h3>
       Accounts, wallets, orders
       <br/>
       <a href="https://www.ramioo.com/projects/digital-exchange">مشاهده در سایت</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://www.ramioo.com/projects/solar-intelligence">
         <img src="https://www.ramioo.com/images/solar-panels.jpg" alt="Solar plant monitoring" width="420" />
       </a>
       <br/>
-      <b><a href="https://www.ramioo.com/projects/solar-intelligence">پایش نیروگاه خورشیدی</a></b>
-      <br/>
+      <h3><a href="https://www.ramioo.com/projects/solar-intelligence">پایش نیروگاه خورشیدی</a></h3>
       Generation, health, alerts
       <br/>
       <a href="https://www.ramioo.com/projects/solar-intelligence">مشاهده در سایت</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://www.ramioo.com/projects/vision-access">
         <img src="https://www.ramioo.com/images/security-camera.jpg" alt="Vision access control" width="420" />
       </a>
       <br/>
-      <b><a href="https://www.ramioo.com/projects/vision-access">کنترل تردد و پلاک‌خوان</a></b>
-      <br/>
+      <h3><a href="https://www.ramioo.com/projects/vision-access">کنترل تردد و پلاک‌خوان</a></h3>
       Cameras, AI, passage logs
       <br/>
       <a href="https://www.ramioo.com/projects/vision-access">مشاهده در سایت</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://www.ramioo.com/projects/network-twin">
-        <img src="https://www.ramioo.com/images/server-racks.jpg" alt="Network infrastructure atlas" width="420" />
-      </a>
-      <br/>
-      <b><a href="https://www.ramioo.com/projects/network-twin">اطلس زیرساخت شبکه</a></b>
-      <br/>
-      Racks, topology, inventory
-      <br/>
-      <a href="https://www.ramioo.com/projects/network-twin">مشاهده در سایت</a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://www.ramioo.com/projects/enterprise-directory">
         <img src="https://www.ramioo.com/images/enterprise-office.jpg" alt="Enterprise directory" width="420" />
       </a>
       <br/>
-      <b><a href="https://www.ramioo.com/projects/enterprise-directory">دفترچه تلفن سازمانی</a></b>
-      <br/>
+      <h3><a href="https://www.ramioo.com/projects/enterprise-directory">دفترچه تلفن سازمانی</a></h3>
       Contacts across large orgs
       <br/>
       <a href="https://www.ramioo.com/projects/enterprise-directory">مشاهده در سایت</a>
@@ -300,9 +358,9 @@ const ramin = {
 
 ### 🎯 current focus
 
-- **[ramioo.com](https://www.ramioo.com)** — software, network, datacenter and security from Tabriz
+- **network & datacenter** — racks, switching, servers, cabling, stable LAN/WAN
+- **[ramioo.com](https://www.ramioo.com)** — infrastructure and software from Tabriz
 - **Sarafchi** — exchange back office (roles, trades, balances, TRON USDT)
-- **network & datacenter** — racks, switching, servers, stable LAN/WAN
 - public **address** and **balance** tools that stay clear and useful
 
 ---
