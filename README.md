@@ -26,6 +26,16 @@
 </div>
 
 <p align="center">
+ <a href="https://www.star-history.com/ramincsy">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?user=ramincsy&year=2026&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?user=ramincsy&year=2026" />
+   <img alt="Top Committer" src="https://api.star-history.com/badge?user=ramincsy&year=2026" />
+  </picture>
+ </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramincsy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ramincsy?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/ramincsy?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
