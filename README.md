@@ -16,7 +16,7 @@
   </p>
   <p>
     <a href="https://www.ramioo.com"><img src="https://img.shields.io/badge/VISIT%20SITE-www.ramioo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ramioo.com" /></a>
-    <a href="https://www.ramioo.com/projects"><img src="https://img.shields.io/badge/PROJECTS-Portfolio-111827?style=for-the-badge" alt="Projects" /></a>
+    <a href="https://ramincsy.github.io/ramioo-showcase/"><img src="https://img.shields.io/badge/PROJECTS-Portfolio-111827?style=for-the-badge" alt="Projects catalog" /></a>
     <a href="https://www.ramioo.com/contact"><img src="https://img.shields.io/badge/CONTACT-Get%20in%20touch-16a34a?style=for-the-badge" alt="Contact" /></a>
   </p>
 </div>
@@ -93,19 +93,19 @@ const ramin = {
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://www.ramioo.com/projects/network-twin">
+      <a href="https://ramincsy.github.io/atlas-showcase/">
         <img src="./assets/atlas-network-catalog.jpg" alt="Datacenter racks and servers" width="440" />
       </a>
       <br/>
-      <h3><a href="https://www.ramioo.com/projects/network-twin">Servers &amp; racks</a></h3>
+      <h3><a href="https://ramincsy.github.io/atlas-showcase/">Servers &amp; racks</a></h3>
       <b>Racks · Servers · Cabling · UPS / PDU</b>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://www.ramioo.com/projects/network-twin">
+      <a href="https://ramincsy.github.io/atlas-showcase/">
         <img src="./assets/network-switching.jpg" alt="Network switching equipment" width="440" />
       </a>
       <br/>
-      <h3><a href="https://www.ramioo.com/projects/network-twin">Network gear</a></h3>
+      <h3><a href="https://ramincsy.github.io/atlas-showcase/">Network gear</a></h3>
       <b>Switching · Routing · Firewall · VLAN / VPN</b>
     </td>
   </tr>
@@ -136,30 +136,30 @@ const ramin = {
 </p>
 
 <p align="center">
-  <a href="https://www.ramioo.com/projects/network-twin"><img src="https://img.shields.io/badge/Network%20atlas%20demo-ramioo.com-0A66C2?style=for-the-badge" alt="Network atlas" /></a>
+  <a href="https://ramincsy.github.io/atlas-showcase/"><img src="https://img.shields.io/badge/Network%20atlas%20demo-ramioo.com-0A66C2?style=for-the-badge" alt="Network atlas" /></a>
   <a href="https://www.ramioo.com/services"><img src="https://img.shields.io/badge/Infrastructure%20services-ramioo.com%2Fservices-111827?style=for-the-badge" alt="Services" /></a>
 </p>
 
 ---
 
-### 🖼 Selected work — click any card → [ramioo.com/projects](https://www.ramioo.com/projects)
+### 🖼 Selected work — GitHub Pages catalogs — click any card → [GitHub Pages catalogs](https://ramincsy.github.io/ramioo-showcase/)
 
 <p align="center">
-  <a href="https://www.ramioo.com/projects"><img src="https://img.shields.io/badge/Open%20full%20portfolio-www.ramioo.com%2Fprojects-0A66C2?style=for-the-badge" alt="Open portfolio" /></a>
+  <a href="https://ramincsy.github.io/ramioo-showcase/"><img src="https://img.shields.io/badge/Open%20full%20portfolio-ramincsy.github.io%2Framioo--showcase-0A66C2?style=for-the-badge" alt="Open portfolio catalog" /></a>
 </p>
 
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://www.ramioo.com/projects/network-twin">
+      <a href="https://ramincsy.github.io/atlas-showcase/">
         <img src="./assets/atlas-network-catalog.jpg" alt="Atlas Network Catalog" width="420" />
       </a>
       <br/><br/>
-      <b><a href="https://www.ramioo.com/projects/network-twin">Atlas Network Catalog</a></b><br/>
+      <b><a href="https://ramincsy.github.io/atlas-showcase/">Atlas Network Catalog</a></b><br/>
       <span>Type: Interactive documentation / inventory</span><br/>
       <sub>Category: Network infrastructure</sub>
       <br/><br/>
-      <a href="https://www.ramioo.com/projects/network-twin">View on site →</a>
+      <a href="https://ramincsy.github.io/atlas-showcase/">View catalog →</a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://www.ramioo.com/projects/sarafchi">
@@ -175,50 +175,66 @@ const ramin = {
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://www.ramioo.com/projects/digital-exchange">
+      <a href="https://ramincsy.github.io/digital-exchange-showcase/">
         <img src="./assets/digital-exchange-core.jpg" alt="Digital Exchange Core" width="420" />
       </a>
       <br/><br/>
-      <b><a href="https://www.ramioo.com/projects/digital-exchange">Digital Exchange Core</a></b><br/>
+      <b><a href="https://ramincsy.github.io/digital-exchange-showcase/">Digital Exchange Core</a></b><br/>
       <span>Type: Trading platform core</span><br/>
       <sub>Category: Fintech · Crypto</sub>
       <br/><br/>
-      <a href="https://www.ramioo.com/projects/digital-exchange">View on site →</a>
+      <a href="https://ramincsy.github.io/digital-exchange-showcase/">View catalog →</a>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://www.ramioo.com/projects/solar-intelligence">
+      <a href="https://ramincsy.github.io/aftabpulse-showcase/">
         <img src="./assets/solar-plant-monitoring.jpg" alt="Solar Plant Monitoring" width="420" />
       </a>
       <br/><br/>
-      <b><a href="https://www.ramioo.com/projects/solar-intelligence">Solar Plant Monitoring</a></b><br/>
+      <b><a href="https://ramincsy.github.io/aftabpulse-showcase/">Solar Plant Monitoring</a></b><br/>
       <span>Type: Operations dashboard</span><br/>
       <sub>Category: Energy · IoT</sub>
       <br/><br/>
-      <a href="https://www.ramioo.com/projects/solar-intelligence">View on site →</a>
+      <a href="https://ramincsy.github.io/aftabpulse-showcase/">View catalog →</a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://www.ramioo.com/projects/vision-access">
+      <a href="https://ramincsy.github.io/vision-access-showcase/">
         <img src="./assets/vision-access-control.jpg" alt="Vision Access Control" width="420" />
       </a>
       <br/><br/>
-      <b><a href="https://www.ramioo.com/projects/vision-access">Vision Access Control</a></b><br/>
+      <b><a href="https://ramincsy.github.io/vision-access-showcase/">Vision Access Control</a></b><br/>
       <span>Type: ANPR / camera access system</span><br/>
       <sub>Category: Security · AI</sub>
       <br/><br/>
-      <a href="https://www.ramioo.com/projects/vision-access">View on site →</a>
+      <a href="https://ramincsy.github.io/vision-access-showcase/">View catalog →</a>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://www.ramioo.com/projects/enterprise-directory">
+      <a href="https://ramincsy.github.io/enterprise-directory-showcase/">
         <img src="./assets/enterprise-directory.jpg" alt="Enterprise Directory" width="420" />
       </a>
       <br/><br/>
-      <b><a href="https://www.ramioo.com/projects/enterprise-directory">Enterprise Directory</a></b><br/>
+      <b><a href="https://ramincsy.github.io/enterprise-directory-showcase/">Enterprise Directory</a></b><br/>
       <span>Type: Organization contacts directory</span><br/>
       <sub>Category: Enterprise software</sub>
       <br/><br/>
-      <a href="https://www.ramioo.com/projects/enterprise-directory">View on site →</a>
+      <a href="https://ramincsy.github.io/enterprise-directory-showcase/">View catalog →</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b><a href="https://ramincsy.github.io/taradod-nexus-showcase/">Taradod Nexus</a></b><br/>
+      <span>Type: Access control / biometrics catalog</span><br/>
+      <sub>Category: Security · ERP integration</sub>
+      <br/><br/>
+      <a href="https://ramincsy.github.io/taradod-nexus-showcase/">View catalog →</a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b><a href="https://ramincsy.github.io/ramioo-showcase/">ramioo Showcase Hub</a></b><br/>
+      <span>Type: Product windows hub</span><br/>
+      <sub>Category: Portfolio</sub>
+      <br/><br/>
+      <a href="https://ramincsy.github.io/ramioo-showcase/">View catalog →</a>
     </td>
   </tr>
 </table>
