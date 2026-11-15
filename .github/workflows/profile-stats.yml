@@ -20,6 +20,12 @@ name: Update profile stats cards
 # (GitHub returns 404); those pin steps are optional so a missing repo does
 # not fail the run. They are committed once a token can see them or the repos
 # are public.
+#
+# The stats query counts every commit and pull request. For this account that
+# query is large enough that api.github.com often answers with an nginx 502 or
+# a 504 HTML page instead of GraphQL JSON. github-readme-stats-core then
+# crashes with "Cannot read properties of undefined (reading 'user')". Cards
+# are generated one at a time, and the stats card is retried after a pause.
 
 on:
   schedule:
@@ -36,92 +42,104 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     strategy:
       fail-fast: false
+      # One card at a time. Parallel stats queries are what provoked the 502s.
+      max-parallel: 1
       matrix:
         include:
           - name: stats-light
             card: stats
-            optional: false
+            optional: "false"
+            attempts: "4"
             count_private: true
             options: "username=ramincsy&show_icons=true&theme=transparent&hide_border=true&disable_animations=true"
             path: profile-stats/stats-light.svg
           - name: stats-dark
             card: stats
-            optional: false
+            optional: "false"
+            attempts: "4"
             count_private: true
             options: "username=ramincsy&show_icons=true&theme=github_dark&bg_color=00000000&border_color=00000000&hide_border=true&disable_animations=true"
             path: profile-stats/stats-dark.svg
           - name: top-langs-light
             card: top-langs
-            optional: false
+            optional: "false"
+            attempts: "2"
             count_private: false
             options: "username=ramincsy&langs_count=6&layout=compact&theme=transparent&hide_border=true&disable_animations=true"
             path: profile-stats/top-langs-light.svg
           - name: top-langs-dark
             card: top-langs
-            optional: false
+            optional: "false"
+            attempts: "2"
             count_private: false
             options: "username=ramincsy&langs_count=6&layout=compact&theme=github_dark&bg_color=00000000&border_color=00000000&hide_border=true&disable_animations=true"
             path: profile-stats/top-langs-dark.svg
           - name: pin-sarafchi-light
             card: pin
-            optional: true
+            optional: "true"
+            attempts: "2"
             count_private: false
             options: "username=ramincsy&repo=Sarafchi&theme=transparent&hide_border=true&disable_animations=true"
             path: profile-stats/pin-sarafchi-light.svg
           - name: pin-sarafchi-dark
             card: pin
-            optional: true
+            optional: "true"
+            attempts: "2"
             count_private: false
             options: "username=ramincsy&repo=Sarafchi&theme=github_dark&bg_color=00000000&border_color=00000000&hide_border=true&disable_animations=true"
             path: profile-stats/pin-sarafchi-dark.svg
           - name: pin-best-coin-address-validator-light
             card: pin
-            optional: false
+            optional: "false"
+            attempts: "2"
             count_private: false
             options: "username=ramincsy&repo=Best-Coin-Address-Validator-&theme=transparent&hide_border=true&disable_animations=true"
             path: profile-stats/pin-best-coin-address-validator-light.svg
           - name: pin-best-coin-address-validator-dark
             card: pin
-            optional: false
+            optional: "false"
+            attempts: "2"
             count_private: false
             options: "username=ramincsy&repo=Best-Coin-Address-Validator-&theme=github_dark&bg_color=00000000&border_color=00000000&hide_border=true&disable_animations=true"
             path: profile-stats/pin-best-coin-address-validator-dark.svg
           - name: pin-get-balances-light
             card: pin
-            optional: true
+            optional: "true"
+            attempts: "2"
             count_private: false
             options: "username=ramincsy&repo=Get-Balances&theme=transparent&hide_border=true&disable_animations=true"
             path: profile-stats/pin-get-balances-light.svg
           - name: pin-get-balances-dark
             card: pin
-            optional: true
+            optional: "true"
+            attempts: "2"
             count_private: false
             options: "username=ramincsy&repo=Get-Balances&theme=github_dark&bg_color=00000000&border_color=00000000&hide_border=true&disable_animations=true"
             path: profile-stats/pin-get-balances-dark.svg
           - name: pin-gthub-achievements-light
             card: pin
-            optional: false
+            optional: "false"
+            attempts: "2"
             count_private: false
             options: "username=ramincsy&repo=Gthub-Achievements&theme=transparent&hide_border=true&disable_animations=true"
             path: profile-stats/pin-gthub-achievements-light.svg
           - name: pin-gthub-achievements-dark
             card: pin
-            optional: false
+            optional: "false"
+            attempts: "2"
             count_private: false
             options: "username=ramincsy&repo=Gthub-Achievements&theme=github_dark&bg_color=00000000&border_color=00000000&hide_border=true&disable_animations=true"
             path: profile-stats/pin-gthub-achievements-dark.svg
 
     steps:
-      # The stats API occasionally returns an empty body. Retry once before
-      # failing a required card. Optional pins (repos GitHub cannot see) are
-      # allowed to fail so the daily run still commits the cards that rendered.
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate card
-        id: card
-        continue-on-error: true
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: ./.github/actions/generate-card
         with:
           card: ${{ matrix.card }}
           # count_private is appended only for the stats cards, and only when
@@ -129,31 +147,16 @@ jobs:
           options: ${{ matrix.options }}${{ matrix.count_private && secrets.STATS_TOKEN != '' && '&count_private=true' || '' }}
           path: ${{ matrix.path }}
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Retry card
-        id: retry
-        if: steps.card.outcome == 'failure'
-        continue-on-error: true
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: ${{ matrix.card }}
-          options: ${{ matrix.options }}${{ matrix.count_private && secrets.STATS_TOKEN != '' && '&count_private=true' || '' }}
-          path: ${{ matrix.path }}
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Require card
-        if: matrix.optional == false && steps.card.outcome != 'success' && steps.retry.outcome != 'success'
-        run: exit 1
+          attempts: ${{ matrix.attempts }}
+          optional: ${{ matrix.optional }}
 
       - name: Upload card
-        if: steps.card.outcome == 'success' || steps.retry.outcome == 'success'
+        continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
           name: card-${{ matrix.name }}
           path: ${{ matrix.path }}
-          if-no-files-found: error
+          if-no-files-found: ignore
           retention-days: 1
 
   commit:
