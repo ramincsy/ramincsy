@@ -1,7 +1,10 @@
 <div align="center">
   <a href="https://www.ramioo.com">
-    <img src="./assets/ramioo-emblem-light.png#gh-light-mode-only" width="148" alt="ramioo" />
-    <img src="./assets/ramioo-emblem-dark.png#gh-dark-mode-only" width="148" alt="ramioo" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/ramioo-emblem-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/ramioo-emblem-light.png" />
+      <img src="./assets/ramioo-emblem-light.png" width="148" alt="ramioo" />
+    </picture>
   </a>
   <br/>
   <a href="https://www.ramioo.com">
@@ -160,7 +163,7 @@ const ramin = {
       <span>Type: Accounting / back-office app</span><br/>
       <sub>Category: Fintech · Currency exchange</sub>
       <br/><br/>
-      <a href="https://github.com/ramincsy/Sarafchi">GitHub</a> · <a href="https://www.ramioo.com/projects/sarafchi">View on site →</a>
+      <a href="https://www.ramioo.com/projects/sarafchi">View on site →</a>
     </td>
   </tr>
   <tr>
@@ -244,27 +247,11 @@ const ramin = {
 ### 📂 Public GitHub repos
 
 <p align="center">
-  <a href="https://github.com/ramincsy/Sarafchi">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/pin-sarafchi-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./profile-stats/pin-sarafchi-light.svg" />
-      <img alt="Sarafchi" src="./profile-stats/pin-sarafchi-light.svg" />
-    </picture>
-  </a>
   <a href="https://github.com/ramincsy/Best-Coin-Address-Validator-">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/pin-best-coin-address-validator-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./profile-stats/pin-best-coin-address-validator-light.svg" />
       <img alt="Best-Coin-Address-Validator" src="./profile-stats/pin-best-coin-address-validator-light.svg" />
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ramincsy/Get-Balances">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/pin-get-balances-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./profile-stats/pin-get-balances-light.svg" />
-      <img alt="Get-Balances" src="./profile-stats/pin-get-balances-light.svg" />
     </picture>
   </a>
   <a href="https://github.com/ramincsy/Gthub-Achievements">
@@ -276,9 +263,7 @@ const ramin = {
   </a>
 </p>
 
-- **[Sarafchi](https://github.com/ramincsy/Sarafchi)** — currency-exchange accounting (React + Flask + SQL Server, TronGrid USDT)
 - **[Best-Coin-Address-Validator-](https://github.com/ramincsy/Best-Coin-Address-Validator-)** — C# address **format** checker (regex, not checksums)
-- **[Get-Balances](https://github.com/ramincsy/Get-Balances)** — Python multi-network balance tracker, including TRX
 - **[Gthub-Achievements](https://github.com/ramincsy/Gthub-Achievements)** — GitHub collaboration playbook
 
 ---
