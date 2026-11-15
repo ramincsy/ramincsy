@@ -45,16 +45,6 @@
   <a href="mailto:ramincsywork@gmail.com"><img src="https://img.shields.io/badge/Work-ramincsywork%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email" /></a>
 </div>
 
-<p align="center">
- <a href="https://www.star-history.com/ramincsy">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?user=ramincsy&year=2026&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?user=ramincsy&year=2026" />
-   <img alt="Top Committer" src="https://api.star-history.com/badge?user=ramincsy&year=2026" />
-  </picture>
- </a>
-</p>
-
 ---
 
 ### 👋 About
@@ -254,12 +244,36 @@ const ramin = {
 ### 📂 Public GitHub repos
 
 <p align="center">
-  <a href="https://github.com/ramincsy/Sarafchi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramincsy&repo=Sarafchi&theme=transparent&hide_border=true" alt="Sarafchi" /></a>
-  <a href="https://github.com/ramincsy/Best-Coin-Address-Validator-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramincsy&repo=Best-Coin-Address-Validator-&theme=transparent&hide_border=true" alt="Best-Coin-Address-Validator" /></a>
+  <a href="https://github.com/ramincsy/Sarafchi">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/pin-sarafchi-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile-stats/pin-sarafchi-light.svg" />
+      <img alt="Sarafchi" src="./profile-stats/pin-sarafchi-light.svg" />
+    </picture>
+  </a>
+  <a href="https://github.com/ramincsy/Best-Coin-Address-Validator-">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/pin-best-coin-address-validator-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile-stats/pin-best-coin-address-validator-light.svg" />
+      <img alt="Best-Coin-Address-Validator" src="./profile-stats/pin-best-coin-address-validator-light.svg" />
+    </picture>
+  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ramincsy/Get-Balances"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramincsy&repo=Get-Balances&theme=transparent&hide_border=true" alt="Get-Balances" /></a>
-  <a href="https://github.com/ramincsy/Gthub-Achievements"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramincsy&repo=Gthub-Achievements&theme=transparent&hide_border=true" alt="Gthub-Achievements" /></a>
+  <a href="https://github.com/ramincsy/Get-Balances">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/pin-get-balances-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile-stats/pin-get-balances-light.svg" />
+      <img alt="Get-Balances" src="./profile-stats/pin-get-balances-light.svg" />
+    </picture>
+  </a>
+  <a href="https://github.com/ramincsy/Gthub-Achievements">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/pin-gthub-achievements-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile-stats/pin-gthub-achievements-light.svg" />
+      <img alt="Gthub-Achievements" src="./profile-stats/pin-gthub-achievements-light.svg" />
+    </picture>
+  </a>
 </p>
 
 - **[Sarafchi](https://github.com/ramincsy/Sarafchi)** — currency-exchange accounting (React + Flask + SQL Server, TronGrid USDT)
@@ -334,8 +348,16 @@ const ramin = {
 </div>
 
 <p align="center">
-  <img alt="Ramin's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=ramincsy&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramincsy&langs_count=6&layout=compact&theme=transparent&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-stats/stats-light.svg" />
+    <img alt="Ramin's GitHub stats" height="165" src="./profile-stats/stats-light.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-stats/top-langs-light.svg" />
+    <img alt="Top languages" height="165" src="./profile-stats/top-langs-light.svg" />
+  </picture>
 </p>
 
 <p align="center">
