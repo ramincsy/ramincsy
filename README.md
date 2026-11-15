@@ -15,7 +15,7 @@
   </h1>
   <p>
     <b>Network infrastructure · Datacenter · Software systems</b><br/>
-    Design and delivery from Tabriz — racks, switching, servers, and production apps under the <b>ramioo</b> brand.
+    Design and delivery from Ankara - İstanbul — racks, switching, servers, and production apps under the <b>ramioo</b> brand.
   </p>
   <p>
     <a href="https://www.ramioo.com"><img src="https://img.shields.io/badge/VISIT%20SITE-www.ramioo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ramioo.com" /></a>
@@ -59,7 +59,7 @@ const ramin = {
   github: "ramincsy",
   brand: "ramioo",
   site: "https://www.ramioo.com",
-  location: "Tabriz, Iran",
+  location: "Ankara - İstanbul",
   focus: ["Network & Datacenter", "Full-stack systems"],
   infra: ["racks", "servers", "switching", "firewall", "cabling"],
 };
@@ -354,7 +354,7 @@ const ramin = {
 ### 🎯 Current focus
 
 - **Network & datacenter** — racks, switching, servers, cabling, stable LAN/WAN
-- **[ramioo.com](https://www.ramioo.com)** — infrastructure and software from Tabriz
+- **[ramioo.com](https://www.ramioo.com)** — infrastructure and software from Ankara - İstanbul
 - **Sarafchi** — exchange back office (roles, trades, balances, TRON USDT)
 - Public **address** and **balance** tools that stay clear and useful
 
