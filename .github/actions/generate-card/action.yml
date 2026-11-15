@@ -1,0 +1,101 @@
+name: Generate profile card
+description: Render one readme-stats card, retrying when GitHub's GraphQL gateway returns a non-JSON 502 or 504.
+
+inputs:
+  card:
+    description: Card type passed to github-readme-stats-action.
+    required: true
+  options:
+    description: Query string of card options.
+    required: true
+  path:
+    description: SVG output path.
+    required: true
+  token:
+    description: GitHub token. Use STATS_TOKEN when set, otherwise GITHUB_TOKEN.
+    required: true
+  attempts:
+    description: How many times to call the renderer. Stats uses 4; other cards use 2.
+    required: true
+    default: "2"
+  optional:
+    description: "When true, a missing repo does not fail the job."
+    required: true
+    default: "false"
+
+runs:
+  using: composite
+  steps:
+    # The stats query counts every PR and commit. GitHub often answers that
+    # query with an nginx 502 or a 504 HTML page. The core retryer returns
+    # that body as if it were GraphQL, then crashes on `response.data.user`.
+    # The action reports that TypeError. A later attempt, after the gateway
+    # recovers, returns the normal JSON payload.
+    - name: Attempt 1
+      id: a1
+      continue-on-error: true
+      uses: stats-organization/github-readme-stats-action@v2
+      with:
+        card: ${{ inputs.card }}
+        options: ${{ inputs.options }}
+        path: ${{ inputs.path }}
+        token: ${{ inputs.token }}
+        fail_on_error: true
+
+    - name: Wait before attempt 2
+      if: steps.a1.outcome == 'failure' && inputs.attempts != '1'
+      shell: bash
+      run: sleep 20
+
+    - name: Attempt 2
+      id: a2
+      if: steps.a1.outcome == 'failure' && inputs.attempts != '1'
+      continue-on-error: true
+      uses: stats-organization/github-readme-stats-action@v2
+      with:
+        card: ${{ inputs.card }}
+        options: ${{ inputs.options }}
+        path: ${{ inputs.path }}
+        token: ${{ inputs.token }}
+        fail_on_error: true
+
+    - name: Wait before attempt 3
+      if: inputs.attempts != '1' && inputs.attempts != '2' && steps.a1.outcome == 'failure' && steps.a2.outcome == 'failure'
+      shell: bash
+      run: sleep 40
+
+    - name: Attempt 3
+      id: a3
+      if: inputs.attempts != '1' && inputs.attempts != '2' && steps.a1.outcome == 'failure' && steps.a2.outcome == 'failure'
+      continue-on-error: true
+      uses: stats-organization/github-readme-stats-action@v2
+      with:
+        card: ${{ inputs.card }}
+        options: ${{ inputs.options }}
+        path: ${{ inputs.path }}
+        token: ${{ inputs.token }}
+        fail_on_error: true
+
+    - name: Wait before attempt 4
+      if: inputs.attempts == '4' && steps.a1.outcome == 'failure' && steps.a2.outcome == 'failure' && steps.a3.outcome == 'failure'
+      shell: bash
+      run: sleep 60
+
+    - name: Attempt 4
+      id: a4
+      if: inputs.attempts == '4' && steps.a1.outcome == 'failure' && steps.a2.outcome == 'failure' && steps.a3.outcome == 'failure'
+      continue-on-error: true
+      uses: stats-organization/github-readme-stats-action@v2
+      with:
+        card: ${{ inputs.card }}
+        options: ${{ inputs.options }}
+        path: ${{ inputs.path }}
+        token: ${{ inputs.token }}
+        fail_on_error: true
+
+    - name: Require card
+      if: inputs.optional != 'true' && steps.a1.outcome != 'success' && steps.a2.outcome != 'success' && steps.a3.outcome != 'success' && steps.a4.outcome != 'success'
+      shell: bash
+      run: |
+        echo "Card generation failed after ${{ inputs.attempts }} attempt(s)."
+        exit 1
