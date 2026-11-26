@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ramin csy&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 48, Total Commits  (last year) : 98184, Total PRs: 35886, Total Issues: 2505, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 48, Total Commits  (last year) : 98204, Total PRs: 35897, Total Issues: 2506, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 43.042813796625246;
+        stroke-dashoffset: 43.04324429390633;
       }
     }
   
